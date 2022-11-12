@@ -1,0 +1,8 @@
+Caneta
+Lápis
+Caderno
+Mochila
+Marca texto
+Apostila
+Livros
+Lousa
